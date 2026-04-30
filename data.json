@@ -3,7 +3,7 @@
   "textes": [
     {
       "nom": "Article 1",
-      "url": "https://TON_PSEUDO.github.io/mon-contenu/textes/ton_texte.txt"
+      "url": "https://github.com/Cloclo44400/faster-homework/blob/main/textes/ton_texte.txt"
     }
   ],
   "images": [
@@ -15,7 +15,7 @@
   "fichiers": [
     {
       "nom": "Archive ZIP",
-      "url": "https://TON_PSEUDO.github.io/mon-contenu/fichiers/ton_archive.zip"
+      "url": "https://github.com/Cloclo44400/faster-homework/blob/main/fichiers/rien.zip"
     }
   ]
 }
