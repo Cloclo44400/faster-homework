@@ -2,20 +2,20 @@
   "titre": "teste 2",
   "textes": [
     {
-      "nom": "Article 1",
+      "nom": "mardi 5 mai",
       "url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/main/textes/ton_texte.txt"
     }
   ],
   "images": [
     {
-      "nom": "Photo 1",
-      "url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/main/images/20260325_102352.jpg"
+      "nom": "rien ici",
+      "url": ""
     }
   ],
   "fichiers": [
     {
-      "nom": "Archive ZIP",
-      "url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/main/fichiers/rien.zip"
+      "nom": "rien ici",
+      "url": ""
     }
   ]
 }
