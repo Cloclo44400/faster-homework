@@ -1,21 +1,21 @@
 {
-  "titre": "Mon contenu",
+  "titre": "teste 2",
   "textes": [
     {
       "nom": "Article 1",
-      "url": "https://github.com/Cloclo44400/faster-homework/blob/main/textes/ton_texte.txt"
+      "url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/main/textes/ton_texte.txt"
     }
   ],
   "images": [
     {
       "nom": "Photo 1",
-      "url": "https://github.com/Cloclo44400/faster-homework/blob/main/images/20260325_102352.jpg"
+      "url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/main/images/20260325_102352.jpg"
     }
   ],
   "fichiers": [
     {
       "nom": "Archive ZIP",
-      "url": "https://github.com/Cloclo44400/faster-homework/blob/main/fichiers/rien.zip"
+      "url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/main/fichiers/rien.zip"
     }
   ]
 }
