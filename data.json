@@ -1,0 +1,21 @@
+{
+  "titre": "Mon contenu",
+  "textes": [
+    {
+      "nom": "Article 1",
+      "url": "https://TON_PSEUDO.github.io/mon-contenu/textes/ton_texte.txt"
+    }
+  ],
+  "images": [
+    {
+      "nom": "Photo 1",
+      "url": "https://TON_PSEUDO.github.io/mon-contenu/images/ton_image.jpg"
+    }
+  ],
+  "fichiers": [
+    {
+      "nom": "Archive ZIP",
+      "url": "https://TON_PSEUDO.github.io/mon-contenu/fichiers/ton_archive.zip"
+    }
+  ]
+}
