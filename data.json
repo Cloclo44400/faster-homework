@@ -12,8 +12,12 @@
   ],
   "images": [
     {
-      "nom": "rien ici",
-      "url": ""
+      "nom": "fiche outils MELEC.jpg",
+      "url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/main/images/fiche outils MELEC.jpg"
+    },
+    {
+      "nom": "fiche outils MELEC 2",
+      "url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/main/images/fiche outils MELEC 2.jpg"
     }
   ],
   "fichiers": [
