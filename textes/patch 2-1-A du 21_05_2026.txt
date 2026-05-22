@@ -1,0 +1,3 @@
+patch 2-1-A du 21_05_2026 :
+
+-correction de l'affichage des article sur smartphone.
