@@ -1,0 +1,31 @@
+{
+"models": [
+{
+"id": "Qwen/Qwen2.5-1.5B-Instruct",
+"name": "🧠 Qwen 2.5 1.5B",
+"description": "Très Intelligent - Modèle recommandé",
+"size": "~3 Go",
+"requirements": {
+"min_ram_gb": 8
+}
+},
+{
+"id": "openbmb/MiniCPM5-1B",
+"name": "🤖 MiniCPM 1B",
+"description": "Rapide & Économe en ressources",
+"size": "~2 Go",
+"requirements": {
+"min_ram_gb": 6
+}
+},
+{
+"id": "HuggingFaceTB/SmolLM2-135M-Instruct",
+"name": "⚡ SmolLM2 135M",
+"description": "Ultra-léger & Instantané",
+"size": "~270 Mo",
+"requirements": {
+"min_ram_gb": 4
+}
+}
+]
+}
