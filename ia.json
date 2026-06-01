@@ -6,7 +6,7 @@
 "description": "Très Intelligent - Modèle recommandé",
 "size": "~3 Go",
 "requirements": {
-"min_ram_gb": 8
+"min_ram_gb": 32
 }
 },
 {
