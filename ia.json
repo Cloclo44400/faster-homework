@@ -6,7 +6,7 @@
 "description": "Très Intelligent - Modèle recommandé",
 "size": "~3 Go",
 "requirements": {
-"min_ram_gb": 32
+"min_ram_gb": 6
 }
 },
 {
@@ -15,7 +15,7 @@
 "description": "Rapide & Économe en ressources",
 "size": "~2 Go",
 "requirements": {
-"min_ram_gb": 6
+"min_ram_gb": 4
 }
 },
 {
@@ -24,7 +24,7 @@
 "description": "Ultra-léger & Instantané",
 "size": "~270 Mo",
 "requirements": {
-"min_ram_gb": 4
+"min_ram_gb": 2
 }
 }
 ]
