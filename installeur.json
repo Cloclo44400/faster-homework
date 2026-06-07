@@ -1,0 +1,6 @@
+{
+  "app_name": "CalculatriceTop",
+  "version": "1.2.0",
+  "main_script_url": "https://raw.githubusercontent.com/TON_PSEUDO/REPO_CALCULATRICE/main/main.py",
+  "dependencies": ["requests"]
+}
