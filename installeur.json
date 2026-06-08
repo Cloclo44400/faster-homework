@@ -3,11 +3,19 @@
   "versions": {
     "2.1.0": {
       "main_script_url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/refs/heads/main/version/faster_homework_v2.1.0.py",
-      "dependencies": ["requests"]
+      "dependencies": [
+        "requests"
+      ]
     },
     "2.0.0": {
       "main_script_url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/refs/heads/main/version/faster_homework_v2.0.py",
-      "dependencies": ["requests"]
+      "dependencies": [
+        "requests"
+      ]
+    },
+    "1.0.0": {
+      "main_script_url": "https://raw.githubusercontent.com/Cloclo44400/faster-homework/refs/heads/main/version/faster_homework_v1.0.py",
+      "dependencies": []
     }
   }
 }
